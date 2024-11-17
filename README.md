@@ -27,13 +27,13 @@ OpenCore 1.0.2
  * 이더넷  
  * iMessage & Facetime  
  * 그래픽 가속  
+ * 잠자기
 
 ## 작동하지 않는 것
 * Wi-Fi  
 * iCloud로 연동된 AirPods  
 * Airdrop, Hand-off 등을 포함한 연속성 기능(Wi-Fi 네이티브 연결 요구)  
 * 아이폰 미러링(T2 보안칩 요구)  
-* 잠자기  
 * About This Mac CPU 정보 수정
 
 ## Kext
