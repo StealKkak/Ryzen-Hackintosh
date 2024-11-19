@@ -43,5 +43,19 @@ Chrome 이나 Chrome 기반 브라우저 사용시 커널 패닉을 일으킬 �
 open -a Google\ Chrome --args --disable-gpu
 ```
 
-## Kext
- * WIP
+## Kext&Utils
+ * [OpenCore]
+ * [AudioDxe]
+ * [AppelALC](https://github.com/acidanthera/applealc)
+ * [AppleMCEReporterDisabler]
+ * [BlutToolFixup]
+ * [ForgedInvariant]
+ * [IntelMKLFixup]
+ * [Lilu]
+ * [NootedRed]
+ * [RealtekRTL811]
+ * [RestrictEvents]
+ * [SMCProcessor]
+ * [SMCRadeonSensors]
+ * [USBToolBox]
+ * [VirtualSMC]
