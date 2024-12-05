@@ -15,6 +15,7 @@ OpenCore 1.0.2
 |쿨러|Wraith Stealth Cooler|Ryzen 번들 쿨러|
 |SSD0|Samsung PM981 512GB|Windows 전용|
 |SSD1|MX500 256GB|macOS 디스크|
+|SSD2|MX500 500GB|FAT32|
 |GPU0|NVIDIA GeForce RTX 2060 6GB|비활성화|
 |GPU1|AMD Radeon(TM) RX Vega 11 Graphics|iGPU|
 |Wifi|IPTIME A3000U|macOS와 호환되지 않음
