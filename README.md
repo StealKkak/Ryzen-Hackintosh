@@ -10,7 +10,7 @@ OpenCore 1.0.3
 ## 사양 정보
 |구분      |모델|비고|
 |---------|----|----|
-|CPU|AMD Ryzen 3400G with Radeon Vega Graphics| |
+|CPU|AMD Ryzen 5600G with Radeon Vega Graphics| |
 |M/B|GIGABYTE B450M DS3H(rev. 1.x)| |
 |쿨러|Wraith Stealth Cooler|Ryzen 번들 쿨러|
 |SSD0|Samsung PM981 512GB|Windows 전용, macOS와 호환되지 않음|
