@@ -18,7 +18,7 @@ OpenCore 1.0.3
 |SSD2|MX500 500GB|FAT32|
 |GPU0|NVIDIA GeForce RTX 2060 6GB|비활성화, macOS와 호환되지 않음|
 |GPU1|AMD Radeon(TM) RX Vega 11 Graphics|iGPU|
-|Wifi|IPTIME A3000U|macOS와 호환되지 않음
+|Wi-Fi|IPTIME A3000U|macOS와 호환되지 않음
 |Bluetooth|CSR 4.0 Bluetooth||
 
 ## 작동하는 것
