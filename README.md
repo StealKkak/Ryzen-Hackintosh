@@ -38,7 +38,7 @@ OpenCore 1.0.3
 * About This Mac CPU 정보 수정
 
 ## 주의사항
-Chrome 이나 Chrome 기반 브라우저 사용시 커널 패닉을 일으킬 수 있습니다. 사파리를 사용하거나 하드웨어 가속을 끄셔야 합니다.  
+Chrome 이나 Chrome 기반 앱(Visual Studio Code, Discord와 같은 Electron 프레임워크를 사용하는 앱 포함) 사용시 커널 패닉을 일으킬 수 있습니다. 사파리를 사용하거나 하드웨어 가속을 끄셔야 합니다.  
 만약 크롬 실행이 불가능하시다면 터미널에서 아래 명령어를 사용하시기 바랍니다.
 ```
 open -a Google\ Chrome --args --disable-gpu
