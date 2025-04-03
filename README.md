@@ -60,3 +60,6 @@ open -a Google\ Chrome --args --disable-gpu
  * [SMCRadeonSensors]
  * [USBToolBox]
  * [VirtualSMC]
+
+## 라이선스
+수정하든 본인꺼라고 구라치고 배포하든 맘대루 쓰세여!
